@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# Sinple Ruby script to merge two Java properties files.
+# Simple Ruby script to merge two Java properties files.
 # Anders Weijnitz
 
 
