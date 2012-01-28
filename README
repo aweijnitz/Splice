@@ -1,0 +1,3 @@
+Sinple Ruby script to merge two Java properties files.
+
+Accepts two files as input. Will take the properties in the first file and add/merge them into the properties of the second file. The result is printed to standard out.
